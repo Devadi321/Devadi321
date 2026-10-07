@@ -1,35 +1,28 @@
 # 👋 Hi, I'm Adithyan
 
-🎓 BCA Student
-💻 Aspiring Data Analyst / Developer
-🚀 Building projects in SQL, Python & Web
+**Freelance AI Developer** · IT Support Specialist · Cybersecurity · Web Testing & QA
+
+I build practical AI systems — agents, automation, chatbots — and keep the infrastructure running. 50+ AI projects shipped.
 
 ---
 
-## 🛠️ Skills
+## 🚀 Featured Projects
 
-* SQL (Data Analysis)
-* Python (basic projects)
-* C Programming
-* HTML, CSS, JavaScript
-* GitHub, Linux
-
----
-
-## 🚀 Projects
-
-* 📊 Sales Data Analysis (SQL)
-* 📊 [Student Data Analysis (SQL)](https://github.com/Devadi321/student-sql-analysis)
-* 🌐 Portfolio Website
-* 💻 Student Record System (C)
+- **[EscrowEase](https://github.com/Devadi321/escrowease)** — Freelancer escrow with an AI referee. Client funds held via PayPal sandbox; AI judges the deliverable, then releases or refunds. 🏆 PayPal AI Hackathon submission.
+- **[PaisaPilot](https://github.com/Devadi321/paisapilot)** — Voice-first money copilot, a simulated Alexa+ experience. 🏆 Amazon Developer Hackathon submission.
+- **[CaptionBeast](https://github.com/Devadi321/CaptionBeast)** — AI caption generator (Whisper + MoviePy) that took content from hundreds of views to 30K and 100K.
+- **[uptime-guard](https://github.com/Devadi321/uptime-guard)** — Real-time system status page and incident management dashboard. Next.js 14 + Shadcn/UI.
+- **[cmd-clone](https://github.com/Devadi321/cmd-clone)** — AI coding agent that learns your taste. Node.js, Ink, DeepSeek.
 
 ---
 
-## 📈 Currently Learning
+## 🛠️ Stack
 
-* Data Analysis
-* Python for Data
-* Real-world projects
+**AI / Backend:** Python, FastAPI, LLM APIs, AI agents, Playwright automation
+**Web:** JavaScript, HTML/CSS, Next.js, React
+**Data:** SQL, Pandas, NumPy, Scikit-learn
+**Ops:** Linux, Git, Docker
+**Security & Quality:** Cybersecurity fundamentals, web testing & QA
 
 ---
 
@@ -43,5 +36,5 @@
 
 ## 📫 Contact
 
-* Email: [awadithyan@gmail.com](mailto:awadithyan@gmail.com)
-* GitHub: [https://github.com/Devadi321](https://github.com/Devadi321)
+- Email: [awadithyan@gmail.com](mailto:awadithyan@gmail.com)
+- LinkedIn: [adithya-krishnankl](https://www.linkedin.com/in/adithya-krishnankl)
